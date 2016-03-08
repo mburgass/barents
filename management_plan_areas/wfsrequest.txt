@@ -1,0 +1,1 @@
+http://wms.miljodirektoratet.no/geoserver/forvaltningsplanomrader_hav/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=fp_barentshavet,fp_nordsjoen,fp_norskehavet,fp_barentshavet_grenser,fp_norskehavet_grenser,fp_nordsjoen_grenser&outputformat=SHAPE-ZIP
